@@ -1,8 +1,16 @@
-# 🚀 CS AI Agent — by Vasu 🔥  
+<h1 align="center">🤖 CS AI Agent</h1>
 
 <p align="center">
-  🤖 <b>Smart AI Chatbot for Computer Science Students</b> <br>
-  Built with passion, chai ☕, and sleepless nights 🌙  
+  🚀 Smart AI Chatbot for Computer Science Students <br>
+  Built by <b>Vasu</b> with ❤️
+</p>
+
+<p align="center">
+  <a href="https://cs-agent-rust.vercel.app">
+    <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Made%20With-JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
 ---
@@ -12,66 +20,27 @@
 
 ---
 
-## ✨ Why this project is 🔥  
+## ✨ Features  
 
-💬 Chat like ChatGPT but focused on **Computer Science**  
-⚡ Fast responses  
-🎯 Helps with:
-- Data Structures & Algorithms  
-- OOP Concepts  
-- DBMS, OS, Networking  
-- Coding questions  
-
-🎨 Clean UI + smooth experience  
+- 💬 AI Chatbot (CS focused)  
+- ⚡ Fast responses  
+- 📚 Helps with DSA, OOP, DBMS, OS  
+- 🎨 Clean UI + smooth experience  
 
 ---
 
-## 🧠 What makes it special?  
+## 🧠 Why this project?  
 
 🚀 Personalized AI responses  
-🧑‍🏫 Acts like a **friendly tutor**  
-📚 Explains complex topics in **simple steps**  
-🔥 Built from scratch (no copy-paste)  
+🧑‍🏫 Acts like a friendly tutor  
+📖 Explains complex topics simply  
+🔥 Built from scratch  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-HTML ⚡  
-CSS 🎨  
-JavaScript 🚀  
-
----
-
-## 👨‍💻 About Me  
-
-> 💡 Vasu (Penkey Sri Vasu)  
-> 🎓 B.Tech CSE | Parul University  
-> 🚀 Builder of cool projects  
-
----
-
-## 📸 Preview  
-
-_Add screenshots here later 👀_
-
----
-
-## ⚠️ Security  
-
-🔒 API keys removed for safety  
-
----
-
-## ⭐ Support  
-
-If you like this project:  
-👉 Star ⭐ this repo  
-👉 Share with friends  
-👉 Follow for more  
-
----
-
-<p align="center">
-  Made with ❤️ by Vasu 🚀  
-</p>
+```bash
+HTML ⚡
+CSS 🎨
+JavaScript 🚀
