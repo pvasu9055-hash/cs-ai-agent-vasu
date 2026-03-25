@@ -64,14 +64,6 @@
 
 ---
 
-## 🎥 Live Demo (GIF) 🤯  
-
-<p align="center">
-  <img src="demo.gif" width="900"/>
-</p>
-
----
-
 ## 📸 Screenshot  
 
 <p align="center">
