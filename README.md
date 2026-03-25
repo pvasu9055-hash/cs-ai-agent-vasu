@@ -1,5 +1,7 @@
 <h1 align="center">🚀 CS AI Agent</h1>
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F5A0&center=true&vCenter=true&width=700&lines=AI+Chatbot+for+CS+Students;Built+by+Vasu;Fast+⚡+Smart+🤖+Modern+UI" />
 </p>
