@@ -1,7 +1,11 @@
 <h1 align="center">🚀 CS AI Agent</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F5A0&center=true&vCenter=true&width=600&lines=AI+Chatbot+for+CS+Students;Built+by+Vasu;Fast+⚡+Smart+🤖+Clean+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F5A0&center=true&vCenter=true&width=700&lines=AI+Chatbot+for+CS+Students;Built+by+Vasu;Fast+⚡+Smart+🤖+Modern+UI" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:0066FF&height=120&section=header"/>
 </p>
 
 <p align="center">
@@ -15,58 +19,63 @@
 
 ---
 
-## 🌐 🔥 Live Experience  
+## 🌐 Live Demo  
 
-👉 **Try it now:**  
-🔗 https://cs-agent-rust.vercel.app  
+👉 https://cs-agent-rust.vercel.app  
 
 ---
 
-## 🎯 What is this?
+## 🎯 What is this?  
 
-🤖 A **smart AI chatbot** built for **Computer Science students**  
-💡 Acts like your **personal tutor**  
-⚡ Gives fast + simple + clear answers  
+🤖 Smart AI chatbot for Computer Science students  
+💡 Acts like your personal tutor  
+⚡ Fast + modern UI  
 
 ---
 
 ## ✨ Features  
 
 🔥 Chat like ChatGPT (CS focused)  
-⚡ Super fast responses  
-📚 Helps with:  
-- DSA (Data Structures & Algorithms)  
-- OOP Concepts  
-- DBMS, OS, Networking  
-- Coding Problems  
+⚡ Lightning fast responses  
+📚 Helps with:
+- DSA  
+- OOP  
+- DBMS, OS  
+- Coding problems  
 
-🎨 Clean UI + smooth UX  
+🎨 Smooth UI + clean design  
 
 ---
 
-## 🧠 Why this is DIFFERENT?
+## 🧠 Why this is DIFFERENT?  
 
-🚀 Not just chatbot → **Smart tutor**  
+🚀 Not just chatbot → Smart tutor  
 🧑‍🏫 Explains like a teacher  
 📖 Breaks complex topics into simple steps  
-🔥 Built fully from scratch (no copy paste)  
+🔥 Built from scratch  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-## 📸 Preview  
+## 🎥 Live Demo (GIF) 🤯  
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Your+Project+Screenshot" />
+  <img src="demo.gif" width="900"/>
+</p>
+
+---
+
+## 📸 Screenshot  
+
+<p align="center">
+  <img src="preview.png.png" width="900"/>
 </p>
 
 ---
@@ -77,7 +86,7 @@
 
 💡 **Vasu (Penkey Sri Vasu)**  
 🎓 B.Tech CSE | Parul University  
-🚀 Passionate Developer  
+🚀 Future Full Stack Developer  
 
 </p>
 
@@ -85,14 +94,16 @@
 
 ## ⭐ Show some love  
 
-If you like this project:  
-
-⭐ Star the repo  
+⭐ Star this repo  
 🚀 Share with friends  
-💬 Give feedback  
+💬 Feedback welcome  
 
 ---
 
 <p align="center">
-  💖 Made with passion + chai ☕ by Vasu 🚀  
+  💖 Built with passion + chai ☕ by Vasu 🚀  
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F5A0&height=120&section=footer"/>
 </p>
